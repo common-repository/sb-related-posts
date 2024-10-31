@@ -1,0 +1,27 @@
+
+.related_post_item {
+	width: 32%;
+	float: left;
+	overflow: hidden;
+	margin-right: 2%;
+	box-sizing: border-box;
+}
+
+.related_post_item:nth-child(4) {
+	margin-right: 0;
+}
+.r_post_img_wrapper{
+
+}
+.r_post_img_wrapper img {
+
+}
+.r_post_title{}
+.r_post_title  h4{
+	margin: 10px 0 20px !important;
+}
+.r_post_title  h4 > a{
+	text-decoration: none !important;
+}
+.r_post_text{}
+.r_post_text p{}
